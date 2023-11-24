@@ -22,7 +22,7 @@ The project was carried out in the following steps:
 
 - Grid search: Hyperparameter tuning was performed using GridSearchCV to find the best combination of hyperparameters and kernel for the SVM model.
 
-- Experimentation: Predictions were made using both the SVM and Bagging models for an example input data to determine if the patient is diabetic or non-diabetic.
+- Experimentation: Predictions were made using both the SVM and Bagging models for an example input data to determine if the patient is diabetic or non-diabetic
 
 - Evaluation and results: The classification report was displayed for both SVM and Bagging models.
 
