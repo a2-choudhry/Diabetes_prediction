@@ -6,7 +6,7 @@ The project was carried out in the following steps:
 
 - Data import: The data was read from the 'Diabetes.csv' file using Pandas, and null values were checked in the dataframe.
 
-- Dataset description: The meaning of each column in the dataset was provided.
+- Dataset description: The meaning of each column in the dataset was provided
 
 - Data splitting: The data was grouped by the 'Outcome' column to visualize the distribution of the dependent variable. A count plot was created to visualize the distribution.
 
